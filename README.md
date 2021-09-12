@@ -1,6 +1,6 @@
-# Projeto Base Python
+# Design Patterns Python
 
-Projeto base para iniciar qualquer projeto Python.
+Projeto com os principais Design Patterns em Python.
 
 ## Instalar dependências
 
